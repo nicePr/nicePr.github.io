@@ -1,0 +1,174 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为网页资源信息",
+        " *   success字段为下载保存成功的资源;failures字段则为下载保存失败的资源URL",
+        " *   success字段为标准树结构，每一层资源父子关系、URL和保存路径清晰明了",
+        " *   本文件仅为记录检测到的网页资源以便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "success": [
+        {
+            "url": "https://www.dickrocket.net/",
+            "path": "index.html",
+            "children": [
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bee083cc44fe4225ee6296_Untitled_design__25_-removebg-preview.png",
+                    "path": "images/60bee083cc44fe4225ee6296_Untitled_design__25_-removebg-preview.png"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce604c8c5a1523_home.svg",
+                    "path": "images/60bed0de52ce604c8c5a1523_home.svg"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce604f535a1522_faq.svg",
+                    "path": "images/60bed0de52ce604f535a1522_faq.svg"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce6063c65a1525_price%20.svg",
+                    "path": "images/60bed0de52ce6063c65a1525_price .svg"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce6038a95a1520_contact.svg",
+                    "path": "images/60bed0de52ce6038a95a1520_contact.svg"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce605ce85a1524_group.svg",
+                    "path": "images/60bed0de52ce605ce85a1524_group.svg"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce60e9975a1521_blog.svg",
+                    "path": "images/60bed0de52ce60e9975a1521_blog.svg"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed7509ae060b4dd555a4b_dickrocket%20(2).png",
+                    "path": "images/60bed7509ae060b4dd555a4b_dickrocket (2).png"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60c0a9c43d98186bca760458_1.Download%20Wallet%20(1).png",
+                    "path": "images/60c0a9c43d98186bca760458_1.Download Wallet (1).png"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce6022335a1527_Iphone_2.png",
+                    "path": "images/60bed0de52ce6022335a1527_Iphone_2.png"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce6032d55a1529_Iphone_3.png",
+                    "path": "images/60bed0de52ce6032d55a1529_Iphone_3.png"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce602e195a152a_Iphone-4.png",
+                    "path": "images/60bed0de52ce602e195a152a_Iphone-4.png"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bfca60db55910819808cd7_Untitled_design__26_-removebg-preview.png",
+                    "path": "images/60bfca60db55910819808cd7_Untitled_design__26_-removebg-preview.png"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce60f95c5a1502_blue-background.svg",
+                    "path": "images/60bed0de52ce60f95c5a1502_blue-background.svg"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce6010075a1503_gray-background.svg",
+                    "path": "images/60bed0de52ce6010075a1503_gray-background.svg"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce604f485a14e9_checkmark.png",
+                    "path": "images/60bed0de52ce604f485a14e9_checkmark.png"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/5f06e6a7cd0d92fc55940b32/5f08667becf4e93894960e9a_checkmark.png",
+                    "path": "images/5f08667becf4e93894960e9a_checkmark.png"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed7509ae060b4dd555a4b_dickrocket%20(2)-p-500.png",
+                    "path": "images/60bed7509ae060b4dd555a4b_dickrocket (2)-p-500.png"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed7509ae060b4dd555a4b_dickrocket%20(2)-p-800.png",
+                    "path": "images/60bed7509ae060b4dd555a4b_dickrocket (2)-p-800.png"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed7509ae060b4dd555a4b_dickrocket%20(2)-p-1080.png",
+                    "path": "images/60bed7509ae060b4dd555a4b_dickrocket (2)-p-1080.png"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed7509ae060b4dd555a4b_dickrocket%20(2)-p-1600.png",
+                    "path": "images/60bed7509ae060b4dd555a4b_dickrocket (2)-p-1600.png"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60c0a9c43d98186bca760458_1.Download%20Wallet%20(1)-p-500.png",
+                    "path": "images/60c0a9c43d98186bca760458_1.Download Wallet (1)-p-500.png"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce6022335a1527_Iphone_2-p-500.png",
+                    "path": "images/60bed0de52ce6022335a1527_Iphone_2-p-500.png"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce6032d55a1529_Iphone_3-p-500.png",
+                    "path": "images/60bed0de52ce6032d55a1529_Iphone_3-p-500.png"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce602e195a152a_Iphone-4-p-500.png",
+                    "path": "images/60bed0de52ce602e195a152a_Iphone-4-p-500.png"
+                },
+                {
+                    "url": "https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js",
+                    "path": "js/webfont.js"
+                },
+                {
+                    "url": "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=60bed0de52ce60e83a5a14a8",
+                    "path": "js/jquery-3.5.1.min.dc5e7f18c8.js"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/js/webflow.cf60109fd.js",
+                    "path": "js/webflow.cf60109fd.js"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/css/cryptos-exceptional-project.webflow.fa3baf515.css",
+                    "path": "css/cryptos-exceptional-project.webflow.fa3baf515.css",
+                    "children": [
+                        {
+                            "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce6004235a14e6_decor-dots.svg",
+                            "path": "images/60bed0de52ce6004235a14e6_decor-dots.svg"
+                        },
+                        {
+                            "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce60e02a5a14e5_decor-rows.svg",
+                            "path": "images/60bed0de52ce60e02a5a14e5_decor-rows.svg"
+                        },
+                        {
+                            "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce60f67f5a1537_arrow.png",
+                            "path": "images/60bed0de52ce60f67f5a1537_arrow.png"
+                        },
+                        {
+                            "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce6012e05a14ed_Lines.svg",
+                            "path": "images/60bed0de52ce6012e05a14ed_Lines.svg"
+                        },
+                        {
+                            "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce6010d15a150d_blog-left-shape.svg",
+                            "path": "images/60bed0de52ce6010d15a150d_blog-left-shape.svg"
+                        },
+                        {
+                            "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce6042785a150e_blog-right-shape.svg",
+                            "path": "images/60bed0de52ce6042785a150e_blog-right-shape.svg"
+                        },
+                        {
+                            "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce6023235a1500_plane-icon.svg",
+                            "path": "images/60bed0de52ce6023235a1500_plane-icon.svg"
+                        }
+                    ]
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce601eca5a151c_favicon.jpg",
+                    "path": "images/60bed0de52ce601eca5a151c_favicon.jpg"
+                },
+                {
+                    "url": "https://uploads-ssl.webflow.com/60bed0de52ce60e83a5a14a8/60bed0de52ce6017805a151d_webclip.jpg",
+                    "path": "images/60bed0de52ce6017805a151d_webclip.jpg"
+                }
+            ]
+        }
+    ],
+    "failures": []
+}
