@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1334.485" height="151.439" viewBox="0 0 1334.485 151.439">
+  <defs>
+    <filter id="logo_vaivo_white" x="0" y="0" width="1334.485" height="151.439" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#logo_vaivo_white)">
+    <path id="logo_vaivo_white-2" data-name="logo_vaivo_white" d="M205.991-23.136H336.108l-56.292,38.2L139.549,110.3H70.707L21.982,8.24,6.848-23.136H99.683l33.59,70.318L93.592,77.451l40.788-27.869L191.6,10.824l23.07-15.872ZM321.343,83.91h99.848L406.426,53.088l-35.99,24.362ZM526.576,110.3H227.585L378.557,7.686,394.43,27.8,383.356,4.548,370.067-23.136h92.65ZM595.6-23.136H728.488L644.143,110.3H538.758L604.093,6.579l14.58,18.272L607.415,1.6Zm340.149,0h130.117l-56.292,38.2L869.309,110.3H800.467L751.743,8.24,736.609-23.136h92.835l33.59,70.318L823.353,77.451l40.788-27.869,57.214-38.758,23.07-15.872Zm122,0h244.361l12.55,26.208v.185l8.674,18.272L1284.021,83.91h.369L1267.78,110.3H1030.063l-12.55-26.392,48.909-77.332,14.4,18.272L1069.56,1.6ZM1185.1,83.91l50.939-80.654h-62.013L1126.59,78.189,1083.4,83.91Z" transform="translate(2.15 29.14)" fill="#fff"/>
+  </g>
+</svg>
